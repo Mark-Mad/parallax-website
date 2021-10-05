@@ -22,3 +22,6 @@ Project aims to create parallax website.
         |----style.css   
         |----images
 ```
+## Objective
+
+Build a Landing that is functionally similar to this: [Parallax Website](https://mark-mad.github.io/parallax-website/)
